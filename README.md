@@ -1,2 +1,2 @@
 # hopemeeme.github.io
-my website
+Simple HTML Website detailing OpenWeather API findings
